@@ -9,7 +9,7 @@
 
 ### About me:
 
-<p>I completed <span style="color:red">B.Sc in EEE</span> from **Ahsanullah University Of Science And Technology**. I started learning javascript all by my own during the Covid-19 pandemic last year. I always had the passion for programming. But i was not sure about it, untill 2020 December, When I discovered myself as a good programmer, and become very passionate about learning programming.I started with javascript, worked on Fiverr . The Service i provided was game development and other front end only app development with javascript. I also worked with Node.js to make my games multiplayer over socket.io.
+<p>I completed <b>B.Sc in EEE</b> from **Ahsanullah University Of Science And Technology**. I started learning javascript all by my own during the Covid-19 pandemic last year. I always had the passion for programming. But i was not sure about it, untill 2020 December, When I discovered myself as a good programmer, and become very passionate about learning programming.I started with javascript, worked on Fiverr . The Service i provided was game development and other front end only app development with javascript. I also worked with Node.js to make my games multiplayer over socket.io.
 Now I am focusing on learning **C#** and **ASP.Net** as my ultimate goal is to learn cloud based technologies like IoT.
 The .Net framework is really a multiverse that comes with multiple opportunities, Such as Web,Game,Iot,Machine Learning and also it works on multiple platforms.
 So my first target is to be good with **data structure and problem solving with C#**.
