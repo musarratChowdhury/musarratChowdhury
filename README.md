@@ -4,7 +4,7 @@
 
 - 🎓 B.Sc in EEE
 - 🎓 I’m currently learning C# with Devskill �
-- 💼 Level 1 Seller on Fiverr.
+- 💼 Level 2 Seller on Fiverr.
 - 🎮 HTML5 Game Developer.
 
 ### About me:
