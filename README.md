@@ -40,6 +40,8 @@ And Finally develop myself as an IoT Engineer.</p>
 
 [![Musarrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=musarratChowdhury&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=musarratChowdhury)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musarratChowdhury)](https://github.com/anuraghazra/github-readme-stats)
 
 [portfolio-site]: https://canvas-dev-portfolio.netlify.app/
