@@ -3,26 +3,19 @@
 ## I'm a HTML5 Game Developer !!
 
 - 🎓 B.Sc in EEE
-- 🎓 I’m currently learning C# with Devskill �
-- 💼 Level 2 Seller on Fiverr.
-- 🎮 HTML5 Game Developer.
+- 🎓 M.Sc in CSE
+- 🎓 ML Enthusiast
+- 💼 Asst. Software Engineer
 
 ### About me:
 
-<p>I completed <b>B.Sc in EEE</b> from <b>Ahsanullah University Of Science And Technology</b>. I started learning javascript all by my own during the Covid-19 pandemic last year. I always had the passion for programming. But i was not sure about it, untill 2020 December, When I discovered myself as a good programmer, and become very passionate about learning programming.I started with javascript, worked on Fiverr . The Service i provided was game development and other front end only app development with javascript. I also worked with Node.js to make my games multiplayer over socket.io.
-Now I am focusing on learning <b>C#</b> and <b>ASP.Net</b> as my ultimate goal is to learn cloud based technologies like IoT.
-The .Net framework is really a multiverse that comes with multiple opportunities, Such as Web,Game,Iot,Machine Learning and also it works on multiple platforms.
-So my first target is to be good with <b>data structure and problem solving with C#</b>.
-And Then i want to learn ASP.Net for Backend Web development.
-Then i want to learn cloud Technologies.
-And Finally develop myself as an IoT Engineer.</p>
+<p>I completed <b>B.Sc in EEE</b> from <b>Ahsanullah University Of Science And Technology</b>. I started learning javascript all by my own during the Covid-19 pandemic last year. I always had the passion for programming. But i was not sure about it, untill 2020 December, When I discovered myself as a passionate programmer, and become very determined about learning programming.I started with javascript, worked on Fiverr & Upwork. The Service i provided included game development and other client side app development with javascript. I also worked with Node.js to make my games multiplayer over socket.io.
+Currently I am working as a full time software engineer at Onnorokom Software Ltd (an EdTech Company based in dhaka). Moreover my thirst for knowledge has led me to pursue my masters degree in Computer Science, focusing on Machine Learning and AI track.
 
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio-site]
 [<img align="left" alt="Twitter"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][linkedin]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/fiverr.svg" />][fiverr]
 
 <br />
 
