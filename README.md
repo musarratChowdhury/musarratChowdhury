@@ -1,6 +1,6 @@
 ### Hi there, I'm Musarrat Chowdhury -☞ [portfolio-site]
 
-## I'm a HTML5 Game Developer !!
+## I'm a passionate multi-paradigm software Engineer!!
 
 - 🎓 B.Sc in EEE
 - 🎓 M.Sc in CSE
